@@ -1,0 +1,6 @@
+{
+  "name": "ميكانيكي سيارات - Cars Mechanic",
+  "description": "نظام إدارة ورش صيانة السيارات واستقبال وإدارة طلبات الإصلاح وعروض الأسعار مع دعم كامل للغة العربية والإنجليزية.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
